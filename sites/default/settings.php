@@ -735,8 +735,8 @@ $settings['container_yamls'][] = __DIR__ . '/services.yml';
 #   include __DIR__ . '/settings.local.php';
 # }
 $settings['config_readonly'] = TRUE;
+$settings['install_profile'] = 'config_installer';
 
 if (file_exists(__DIR__ . '/settings.local.php')) {
  include __DIR__ . '/settings.local.php';
 }
-$settings['install_profile'] = 'config_installer';
