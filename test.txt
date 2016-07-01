@@ -1,0 +1,4 @@
+You will need to import your project’s database with the Probo Uploader, a CLI tool.
+You will first import your database, then you will declare the database file in a .probo.yaml file.
+We will use the Drupal plugin to revert features, run database updates, and clear caches.
+(Cache all the things!)
