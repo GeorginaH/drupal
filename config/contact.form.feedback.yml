@@ -1,0 +1,12 @@
+uuid: 365a4fa1-f681-4d72-83a1-034c53cab506
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - hadageorgina@gmail.com
+reply: ''
+weight: 0
